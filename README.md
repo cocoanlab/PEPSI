@@ -5,6 +5,8 @@ The codes and data for the manuscipt,
 
 Codes tested on Ubuntu 20.04, matlab R2021b.
 
+PEPSI stands for <u>P</u>ain <u>E</u>xpectaion and <u>P</u>ain <u>S</u>timulus <u>I</u>ntegration.
+
 Dependecies
 
 * SPM12
