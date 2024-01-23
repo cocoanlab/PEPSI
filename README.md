@@ -1,4 +1,6 @@
-The codes and data for the paper \n
+The codes and data for the paper
+
+
 "GEOMETRICAL FEATURES OF NEURAL TRAJECTORY AS COMPUTATIONAL MOTIFS FOR PAIN CUE-STIMULUS INTEGRATION"
 
 
