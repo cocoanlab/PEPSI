@@ -74,11 +74,9 @@ for iN = 1:2
     end
 end
 
-% Dashed line is the number of PC explaining 90% PCs.
+% Dashed line is the number of PC explaining 70% PCs.
 % Going to select FIXED number of PC. Since after PC exceeding number of 10,
-% Percentage Explained is almost flat ... Even though Limbic cortex
-% requires maximum number of PC, it is likely due to the fact that the region is
-% susceptible to noise. So going to test 10, 20, 30, 40 number of PCs.
+% Percentage Explained is almost flat ... 
 % Important thing is, all the PC selected doesn't make a significant
 % differences in the results.
 
