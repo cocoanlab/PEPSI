@@ -1,7 +1,7 @@
 The codes and data for the manuscipt,
 
 
-"GEOMETRICAL FEATURES OF NEURAL TRAJECTORY AS COMPUTATIONAL MOTIFS FOR PAIN CUE-STIMULUS INTEGRATION"
+"A Computational Mechanism of Cue-Stimulus Integration for Pain in the Brain"
 
 Codes tested on Ubuntu 20.04, matlab R2021b.
 
