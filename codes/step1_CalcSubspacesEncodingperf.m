@@ -1,4 +1,5 @@
 clear;clc 
+# All Dependencies (in README.md) should be installed and added in the path.
 % basedir   = '/path/to/github/PEPSI';
 figoutdir = fullfile(basedir, 'figures/step1_CalcSubspacesEncodingperf');
 if ~exist(figoutdir, 'dir'), mkdir(figoutdir); end
