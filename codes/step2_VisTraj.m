@@ -1,5 +1,6 @@
 clear;clc % 
 % basedir   = '/path/to/github/PEPSI';
+% All Dependencies (in README.md) should be installed and added in the path
 NTWRK   = {'Cerebrum', 'CerebrumStriatumCerebellum'};
 parcelnames = {'Visual', 'Somatomotor', 'dAttention', 'vAttention', ...
     'Limbic', 'Frontoparietal', 'Default'};
