@@ -1,6 +1,4 @@
 clear;clc % 
-% presets
-addpath(genpath('~/github_primes'))
 % basedir   = '/path/to/github/PEPSI';
 NTWRK   = {'Cerebrum', 'CerebrumStriatumCerebellum'};
 parcelnames = {'Visual', 'Somatomotor', 'dAttention', 'vAttention', ...
