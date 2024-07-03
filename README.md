@@ -10,8 +10,8 @@ PEPSI stands for <ins>P</ins>ain <ins>E</ins>xpectation and <ins>P</ins>ain <ins
 * Implements the processes and visualizations depicted in Figs. 2A-B (Calculation of subspaces and encoding performances)
 #### step2_VisTraj.m
 * Implements the visualization of the trajectories in subspaces.
-### step3_Traj2Behv.m
-* Implements the processes of visualizations depicted in Fig. 5
+#### step3_Traj2Behv.m
+* Implements the processes of visualizations depicted in Fig. 5 (Reconstructing behavioral patterns from the neural trajectories)
 
 
 ## data
