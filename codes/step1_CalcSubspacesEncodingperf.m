@@ -81,7 +81,7 @@ end
 % differences in the results.
 
 %% 2. Calculate Encoding performances in each subspace
-mean_behvout = mean(behvout2, 2);
+mean_behvout = mean(behvout, 2);
 pccrits = 20; % [10 15 20 25]; 
 for iP = 1:numel(pccrits)
     pccrit = pccrits(iP);
