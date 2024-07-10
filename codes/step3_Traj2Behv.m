@@ -29,7 +29,7 @@ load(fullfile(basedir, 'data', 'data_for_replication.mat'));
 
 
 %% Calculating behavioral fits
-mean_behvout = mean(behvout2, 2);
+mean_behvout = mean(behvout, 2);
 pccrit = 20;
 for iN = 1:numel(NTWRK)
     for iiP = 1:numel(parcelnames)
